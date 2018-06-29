@@ -64,7 +64,7 @@ document.write("Display the even numbers from 20 to 1. ");
         }
      }
      //Kata 10
-     document.write("Display the squares numbers up to 100. ");
+     document.write("Display the squares numbers down from 100. ");
 for(var i = 100; i >= 1; i--) {
     if(Math.sqrt(i) % 1 ===0){
         document.write(i+", ");
